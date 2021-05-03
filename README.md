@@ -1,3 +1,3 @@
 # assignment3
- ![Assignment3.PNG](screenshot..png )
+ ![Assignment3](Assignment3.PNG)
 
